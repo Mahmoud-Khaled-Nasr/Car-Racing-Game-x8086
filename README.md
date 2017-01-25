@@ -1,2 +1,2 @@
 # Car-game-
-This is an Educational project in microprocessors specially x8086 intel assembly language
+This is an Educational project for microprocessors systems course specially x8086 intel assembly language
